@@ -4,6 +4,7 @@ using System.Runtime.CompilerServices;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using static UnityEngine.Rendering.DebugUI;
 
 public class ButtonManager : MonoBehaviour
 {
@@ -30,6 +31,7 @@ public class ButtonManager : MonoBehaviour
     }
     public void Movescene(string scenename)
     {
+        PlayerStatus.name = "±ËπŒ¡ÿ";
         SceneManager.LoadScene(scenename);
     }
 
