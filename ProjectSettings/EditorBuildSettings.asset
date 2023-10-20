@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/1_Scenes/StartGame.unity
+    guid: 87aa44d6fa0d2a046a7adcfa4488b6e0
+  - enabled: 1
+    path: Assets/1_Scenes/PlayingGame.unity
+    guid: 87305742ca18fff468fb20d073833c29
+  - enabled: 1
+    path: Assets/1_Scenes/Happy1.unity
+    guid: 44a3528ba7369fd4cac04a9161de33ed
+  - enabled: 1
+    path: Assets/1_Scenes/Happy2.unity
+    guid: fb3d8930f3a76fa4e9b9cf15e2568a8c
+  - enabled: 1
+    path: Assets/1_Scenes/Harem.unity
+    guid: 95f87b8b476090c419747ddc24ef6271
+  - enabled: 1
+    path: Assets/1_Scenes/Normal1.unity
+    guid: cb4fd9fea368f5944a1a0d13f8c03320
+  - enabled: 1
+    path: Assets/1_Scenes/Normal2.unity
+    guid: bf01aaa2c5531a149ab1639cd92d83fa
+  - enabled: 1
+    path: Assets/1_Scenes/Sad1.unity
+    guid: 6837956c2283fd0448f097b9a16fc5ed
+  - enabled: 1
+    path: Assets/1_Scenes/Sad2.unity
+    guid: acd442f354ee02541887c76da06033d9
+  - enabled: 1
+    path: Assets/1_Scenes/SetName.unity
+    guid: 77360f0d2a830524b910425d188ba72c
+  - enabled: 1
+    path: Assets/1_Scenes/Yandere.unity
+    guid: 10a953709f93ba14fb5c09245216b506
+  - enabled: 1
+    path: Assets/1_Scenes/ShowEnd.unity
+    guid: 52e323ad1fe62cb4dbfc6da511fab11d
+  - enabled: 1
+    path: Assets/1_Scenes/Happy1_EndScene.unity
+    guid: 4eb89904179919d42af6794abbc5e846
+  - enabled: 1
+    path: Assets/1_Scenes/Happy2_EndScene.unity
+    guid: f195fa91dfba7de4a8d825b81e2ac91d
+  - enabled: 1
+    path: Assets/1_Scenes/Harem_EndScene.unity
+    guid: 86eaa28760da4df49a33c7dee092afb7
+  - enabled: 1
+    path: Assets/1_Scenes/Yandere_EndScene.unity
+    guid: 04309492b50091a49a39878be819d925
+  m_configObjects: {}

@@ -1,0 +1,180 @@
+{
+   "story":[
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"난 기말고사가 끝난 날 저녁,"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"가온이에게 전화를 해 공원으로 불렀다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"(이거 설마 고백?)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"{name}.. 왜...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":".. 윤가온..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"왜 부른 거야?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"나... 너... ㅈ..좋아하는 거 같아...!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅇ..어...? ㄴ..나... 싫어...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"솔직히."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"나에게 있어 너는 특별한 감정이긴 해. 넌 나를 구해 줬으니깐."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"하지만 딱 거기까지야. 우린 그냥 친구로 남자."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅇ..아... 안돼...!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"너도 찰나의 감정으로 확신하지 마. 그건 사랑이 아닐 거야."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"(아니야.. 나... 난...)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"우리 사이, 더 틀어지게 하고 싶지 않아. 우리 이 이야기는 이제 끝내자."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"오늘은 없는 날로 생각하고 끝내자."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"나는 말을 들을 때마다 가슴이 찢어지는 것 같았고 할 말이 매우 많았지만"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"그녀를 계속 보고 싶었기에 입을 닫았다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"그럼 안녕."
+      },
+      {
+         "Code": "-",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "-",
+         "Contents": null
+      },
+      {
+         "Code": "END",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "HOME",
+         "Contents": null
+      }
+   ]
+}

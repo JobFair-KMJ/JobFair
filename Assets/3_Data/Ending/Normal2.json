@@ -1,0 +1,188 @@
+{
+   "story":[
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"난 기말고사가 끝난 날 저녁,"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"가온이에게 전화를 해 공원으로 불렀다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"왜 불렀어?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㄱ..그냥.. 뭐... 할 말이 있어서..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"(설마.. 고백..?!?! 진짜? 정말일까?)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㄱ..그게... 나... 어..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"아오 답답해, 빨리 말해줘. 아니면 내가 할까?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"뭐..?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"너 좋아한다고 {name}"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅇ..윤가온...!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"이럴 땐 성을 때 주면 안 돼~?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㄱ..가온아...! 나도 좋아해..!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"푸흣..."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"난 기쁜 마음에 가온이를 꽉 껴안으려 했지만 내 시야는 까맣게 변했다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"ㅇ..어...?"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"그리고 다시 시야가 밝아졌을 땐 익숙한 내 집 천장이 보였다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"핸드폰을 들어 시간을 확인해 보니 20XX년 3월 X일이었다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"... 아.. 시발 꿈."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"난 착잡한 심정을 추스르고 등교했다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"멀리서 일진 무리에서 속해 이야기하는 윤가온이 보였다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"정말... 지독한 꿈이네..."
+      },
+      {
+         "Code": "-",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "-",
+         "Contents": null
+      },
+      {
+         "Code": "END",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "HOME",
+         "Contents": null
+      }
+   ]
+}

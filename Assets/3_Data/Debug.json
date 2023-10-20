@@ -1,0 +1,141 @@
+{
+  "story": [
+    {
+      "Code": "NARRATION",
+      "Flag": "0",
+      "Info": "나래이션",
+      "SubInfo": null,
+      "SubContents": null,
+      "Contents": "수업 진행 중 선배님께서 갑자기 문제를 내셨다."
+    },
+    {
+      "Code": "NARRATION",
+      "Flag": "0",
+      "Info": "나래이션",
+      "SubInfo": null,
+      "SubContents": null,
+      "Contents": "하지만 아직 배우지 않은 부분을 질문하셨다."
+    },
+    {
+      "Code": "NARRATION",
+      "Flag": "0",
+      "Info": "나래이션",
+      "SubInfo": null,
+      "SubContents": null,
+      "Contents": "여기서 뭐라 대답해야 할까?"
+    },
+    {
+      "Code": "SELECT",
+      "Flag": "0",
+      "Info": "1",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "모른다고 한다."
+    },
+    {
+      "Code": "SELECT",
+      "Flag": "0",
+      "Info": "2",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "최대한 배운 것을 활용하여 대답한다."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "1",
+      "Info": "한예설",
+      "SubInfo": null,
+      "SubContents": "ANGRY",
+      "Contents": "모르겠어요..."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "1",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "가르쳐준 적은 없는데 이건 활용으로 풀 순 있잖아?"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "1",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "ANGRY",
+      "Contents": "생각을 안하냐?"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "1",
+      "Info": "한예설",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "죄송합니다..."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "2",
+      "Info": "한예설",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "어... 이거 아까 알려준 공식을 응용하면 되는 거 아니에요..?"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "2",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "오 시도는 좋았네."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "2",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "근데 그 방법보다는 이런 식이 더 쉬울 거야."
+    },
+    {
+      "Code": "NARRATION",
+      "Flag": "0",
+      "Info": "나래이션",
+      "SubInfo": null,
+      "SubContents": null,
+      "Contents": 
+        "열심히 수학을 배우다 보니 2시간이 훌쩍 지나 있었고. 선배님은 슬슬 끝낼 준비를 하셨다."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "0",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "자 오늘 수업한 거 이해했지?"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "0",
+      "Info": "한예설",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "어...네! 이해 했어요."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "0",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "TALK",
+      "Contents": "내일 복습으로 시작할 거고. 내일은 국어 할 거니깐 국어책 챙겨와라."
+    },
+    {
+      "Code": "END",
+      "Flag": "0",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "END",
+      "Contents": null
+    }
+  ]
+}

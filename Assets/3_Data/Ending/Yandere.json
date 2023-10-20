@@ -1,0 +1,380 @@
+{
+   "story":[
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"그렇게 학교를 마치고 나서, 난 꽤 일찍 나와 윤가온을 기다리고 있었다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"찾았다... {name}..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"{name}.. 왜...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"...! ㄱ..고희라..!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"내가...내가...내가 너 때문에..!!!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"!!!!"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"고희라는 나를 죽일 듯한 기세로 위협했다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"죽어... 죽으라고...."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"내가 너 때문에 우리 가온이랑 떨어져 있었잖아..!!!!"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"까앙"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"으악!"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"고희라는 쇠몽둥이로 나를 힘껏 내리쳤다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"ㅇ...으윽... ㅅ..살려.. 줘..."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"까앙 콰앙 파악 퍽"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"내가!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"너 때문에!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"MEGAANGRY",
+         "Contents":"시발!!!!"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"고희라는 지독하게 내 머리만 노렸다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"DAYSCHOOL",
+         "SubContents":"",
+         "Contents":"ㅈ..지독한 새끼...."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"그 말 이후, 내 눈앞은 깜깜해졌다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"아무런 빛이 비치지 않은 깜깜한 방."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"윤가온은 그런 깜깜한 방에서 눈을 떴다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"",
+         "SubContents":"SCARY",
+         "Contents":"으윽... ㅁ..뭐야....?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"ㅎ.. ㅎ...가온아..."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"섬뜩하기 짝이 없는 목소리."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"윤가온이 몇 번이고 느꼈던 그 소리가 그날따라 더욱 소름 돋게 느껴졌을 것이다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"",
+         "Contents":"화륵"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"",
+         "Contents":"이윽고 방에 불이 켜졌고"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"",
+         "Contents":"윤가온의 앞에는 섬뜩한 표정의 고희라가 마주앉아 있었다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"하.. 하하... 하... 내가.. 널 만나려고.... 이렇게나 준비했어..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"어때 가온아?? 너도 좋지?? 그렇지?!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"SCARY",
+         "Contents":"ㅇ..왜 그래... 희라야..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"아니... ㅎ... 내가... 널 갖고 싶어서 몇 년을 투자했는데..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"ㅎ...ㅎ... 그딴 이상한 놈이 훼방을 놓네...??!!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"SCARY",
+         "Contents":"ㄴ...남주는 어떻게 됐어...!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"내 앞에서도 그딴 놈의 이름이 나와? 응??"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"SCARY",
+         "Contents":"ㅁ..미안..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"아... 그래... 궁금할 수 있지.. 그렇지... ㅎ..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"내가 다 죽여 버렸어... ㅎ... "
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"날 훼방 놓던 걔도... 너랑 이름이 같던 그 여자도.... 모두... 다...."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"SCARY",
+         "Contents":"ㅅ..살려 줘.. 희..라야..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"아니... 살려 준다니깐 그러네...?? 내가 널 왜 죽이니..?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"넌 이제 영원히 내 건데... "
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"고희라",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"MEGAHAPPYTALK",
+         "Contents":"아무도 방해할 수 없어..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"HEERAHOME",
+         "SubContents":"SCARY",
+         "Contents":"ㅇ..안 돼...."
+      },
+      {
+         "Code": "-",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "-",
+         "Contents": null
+      },
+      {
+         "Code": "END",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "YANDERE",
+         "Contents": null
+      }
+   ]
+}

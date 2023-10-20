@@ -1,0 +1,76 @@
+{
+  "scenario": [
+    {
+      "Code": "TALK",
+      "Flag": "0",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "나는 지구 최강 사나이 김민준이다."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "0",
+      "Info": "강예원",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "나는 강예원입니다람쥐"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "0",
+      "Info": "한예설",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "너는 누구인가...나는 한예설이다.."
+    },
+    {
+      "Code": "SELECT",
+      "Flag": "0",
+      "Info": "1",
+      "SubInfo": null,
+      "SubContents": null,
+      "Contents": "나는 천재다"
+    },
+    {
+      "Code": "SELECT",
+      "Flag": "0",
+      "Info": "2",
+      "SubInfo": null,
+      "SubContents": null,
+      "Contents": "나는 바보다"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "1",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "역시 나는 천재야.."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "1",
+      "Info": "강예원",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "나도 천재구만.."
+    },
+    {
+      "Code": "TALK",
+      "Flag": "2",
+      "Info": "김민준",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "내가 바보라고??"
+    },
+    {
+      "Code": "TALK",
+      "Flag": "2",
+      "Info": "강예원",
+      "SubInfo": null,
+      "SubContents": "IDLE",
+      "Contents": "?????????????????"
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+   "story":[
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"난 기말고사가 끝난 날 저녁,"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"가온이에게 전화를 해 공원으로 불렀다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"{name}.. 왜...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"(이거 설마 진짜 고백이야??)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㄱ..그게.... 어... 나.. 너 좋..아하는 거 같아..!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"싫어...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"(아니, 엄청 좋아. 엄청 좋아서 미칠 거 같아.)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"(하지만... 이젠 넌 나에겐 너무 과분한 거 같아...)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"{name}... 우린 친구로 남자..ㅎ"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅇ..어...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"TALK",
+         "Contents":"미안, 나 그럼 할 일이 있어서 가 볼게."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온1",
+         "SubInfo":"PARK",
+         "SubContents":"IDLE",
+         "Contents":"(미안해.. 진짜 미안해 {name}.)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅇ..안 돼..."
+      },
+      {
+         "Code": "-",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "-",
+         "Contents": null
+      },
+      {
+         "Code": "END",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "HOME",
+         "Contents": null
+      }
+   ]
+}

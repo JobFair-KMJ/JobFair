@@ -1,0 +1,556 @@
+{
+   "story":[
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"난 역시 가온이를 좋아하는 거 같아..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"하지만 어떻게 고백을 해야 할까?"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"그때, 그녀에게서 연락이 왔다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"야, 뭐하냐?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"(헉 연락이 왔다!)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"(뭐라고 답장해야 하지...?)"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"아무것도 안 해."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"그럼 나와."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"ㅈ..지금?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"MANHOME",
+         "SubContents":"",
+         "Contents":"1, 2, 3..."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"급하게 나와 보니, 가로등 밑에서 그녀가 기다리고 있었다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"ANGRYTALK",
+         "Contents":"장난해? 왜 이렇게 늦어?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅁ...미안..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"다음부턴 안 봐줄 거야!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"일단 가자!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"PARK",
+         "SubContents":"",
+         "Contents":"ㅇ...어디로?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"PARK",
+         "SubContents":"HAPPYTALK",
+         "Contents":"일단 따라와 ㅎㅎ"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"가온을 따라 도착한 곳은 그녀의 집이었다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"HAPPYTALK",
+         "Contents":"짠! 우리 집이지롱!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"여길 왜 온 거야...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"HAPPYTALK",
+         "Contents":"일단 벗어!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"ㅁ...뭐? 아무리 그래도 그건 좀.."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SHYTALK",
+         "Contents":"ㅇ..야!!! 아니 치료해 줄 테니까 상의만 벗으라고!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"아...! 미안."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"내가 옷을 벗자, 그녀는 지금까지 날 때려서 생긴 상처들을 정성껏 치료해 줬다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SHYTALK",
+         "Contents":"사실... 지금까지 미안했어..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SHYTALK",
+         "Contents":"사과하고 싶어서 오늘 널 부른 거야..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"오올~ 윤가온 그런 말도 할 줄 알아?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SHYTALK",
+         "Contents":"뭐래!! 뒤진다!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"ㅇ...아!!! 아파아파아파"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SADTALK",
+         "Contents":"헉...! 미안..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"ㅋㅋㅋㅋ 장난이야."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SHYTALK",
+         "Contents":"아, 좀!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"(가온이 머리카락이 자꾸 흘러내려서 불편해 보이네...)"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"손으로 그녀의 머리카락을 귀 뒤로 넘겨주자 그녀와 눈이 마주쳤다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"그녀는 약간 당황한 표정으로 눈을 반짝였다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"그리고 그녀는 눈을 천천히 감았다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"눈을 왜 감아?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"SHYTALK",
+         "Contents":"ㄴ...눈에 뭐가 들어가서...!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"아 그래? 내가 빼 줄게!"
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"그녀의 눈을 봐주기 위해 가까이 다가갔다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"WOMANHOME",
+         "SubContents":"",
+         "Contents":"순간 그녀의 얼굴이 붉어졌다."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"",
+         "SubContents":"",
+         "Contents":"퍽!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"ㅇ...아!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"여기 상처 난 곳인데..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"지금 뭐 하는 거야!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"헉! 화났어...? 미안, 난 그냥 봐주려고..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"너 진짜 짜증 나!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"ㅁ...미안해..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"왜 내가 잘못했는데 네가 사과를 하냐고!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"몰라..."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"그녀의 보석같이 반짝이던 눈에서 눈물이 또르르 흘렀다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"ㅈ...진짜 미안..."
+      },
+      {
+         "Code":"NARRATION",
+         "Flag":0,
+         "Info":"나래이션",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"나는 당황해서 그녀의 눈물을 손으로 닦아주려 했다."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SADTALK",
+         "Contents":"사과하지 마. 난 때리고 싶었던 게 아니야..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SADTALK",
+         "Contents":"그냥 네가 좋아서..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"뭐..? 내가 좋다고?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"!!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"진짜? 진짜로?!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"내가 좋ㅇ...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"부끄러우니까 그만 말해!!!"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"그래서 넌 나 어떤데...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"나도 좋아해..."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"그럼 키스해 줘."
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"ㄴ...내가...?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"윤가온2",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"SHYTALK",
+         "Contents":"그럼 내가 할까?"
+      },
+      {
+         "Code":"TALK",
+         "Flag":0,
+         "Info":"{name}",
+         "SubInfo":"(HIGHLIGHT)CHESTAMAZING",
+         "SubContents":"",
+         "Contents":"아니"
+      },
+      {
+         "Code": "-",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "-",
+         "Contents": null
+      },
+      {
+         "Code": "END",
+         "Flag": "0",
+         "Info": "-",
+         "SubInfo": null,
+         "SubContents": "HAPPY2",
+         "Contents": null
+      }
+   ]
+}
